@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">FinalExamPogibaVanessa</string>
+    <string name="ImageView">ImageView</string>
+    <string name="pista_house_kukatpally">Pista House, Kukatpally</string>
+    <string name="fried_rice">Fried Rice</string>
+    <string name="description">Description</string>
+    <string name="description_2">Our fried rice is made from the finest ingredients and veggies. single dish is made with fresh vegetables, rescued.</string>
+    <string name="nutritional_value">Nutritional Value</string>
+    <string name="protein">Protein</string>
+    <string name="rich_in_vitamin_a_c_and_b3">Rich in Vitamin A, C and B3</string>
+    <string name="potassium">Potassium</string>
+    <string name="sodium">Sodium</string>
+    <string name="carbohydrates">Carbohydrates</string>
+    <string name="select_user">Select User -</string>
+    <string name="user_1">User 1</string>
+    <string name="paneer">Paneer</string>
+    <string name="additions">Additions</string>
+    <string name="_100">100</string>
+    <string name="back">BACK</string>
+    <string name="_4_5">4.5</string>
+    <string name="animation">animation</string>
+</resources>
